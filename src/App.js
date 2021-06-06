@@ -10,7 +10,7 @@ function App() {
         <Dictionary />
       </main>
       <footer className="App-footer">
-        <small>This project was coded by Lorena Ibeas and is <a href="#" target="_blank">open-sourced on GitHub</a></small>
+        <small>This project was coded by Lorena Ibeas and is <a href="" target="_blank">open-sourced on GitHub</a></small>
       </footer>
       </div>
     </div>
