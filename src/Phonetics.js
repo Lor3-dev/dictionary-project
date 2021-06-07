@@ -7,9 +7,9 @@ export default function Phonetics (props) {
                     return(
                             <div key={index}>
                                     <p>{phonetic.text}</p>
-                                    <a href={phonetic.audio} target="_blank">Listen</a>
+                                    <a href={phonetic.audio} target="_blank" rel="noreferrer">Listen</a>
                         </div>
-                                    
+                                  
                     )
             })}           
         </div>)
